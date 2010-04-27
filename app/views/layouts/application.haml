@@ -1,0 +1,53 @@
+!!! Strict
+%html
+  %head
+    %title= "SazBOOM"
+    = stylesheet_link_tag 'application', 'tango/skin'
+    = javascript_include_tag 'jquery-1.4.2.min', 'jquery.jcarousel','application','jquery.color'  
+    = yield_content :include  
+    = favicon_tag 'favicon.png' 
+  %body
+    #wrapper 
+      #nav  
+        .left
+        .middle
+          %ul
+            %li                    
+              %a{:href => "#"}
+                .navbox
+                  .text home
+                %p
+                  home is always here
+            %li                    
+              %a{:href => "#"} 
+                .navbox
+                  .text clients
+                %p
+                  work we have done 
+            %li                    
+              %a{:href => "#"} 
+                .navbox
+                  .text ruby    
+                %p
+                  our part for ruby's community    
+            %li                    
+              %a{:href => "#"} 
+                .navbox
+                  .text about    
+                %p
+                  things we admit to                    
+        .right
+          = image_tag 'we_know_ruby.png'
+      #header
+        .center
+          =# image_tag 'herobar.png' 
+      #contact
+        %span.logo
+          SAZBOOM
+        %span.phone
+          248.421.5816
+        %span.email
+          info@sazboom.com
+      #container
+        #main= yield
+      #footer 

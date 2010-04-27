@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="335.16071"
+   height="225.30981"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47+devel r9343"
+   sodipodi:docname="sazboom-logo.svg"
+   inkscape:export-filename="/Users/aaronw/Sites/sazboom/public/images/sazboom-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3801">
+      <stop
+         id="stop3803"
+         offset="0"
+         style="stop-color:#ff612a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffaf2a;stop-opacity:0.99215686;"
+         offset="0.4743056"
+         id="stop3805" />
+      <stop
+         id="stop3807"
+         offset="1"
+         style="stop-color:#ffd62a;stop-opacity:0.98373985;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3793">
+      <stop
+         id="stop3795"
+         offset="0"
+         style="stop-color:#ff612a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffaf2a;stop-opacity:0.99215686;"
+         offset="0.44627991"
+         id="stop3797" />
+      <stop
+         id="stop3799"
+         offset="1"
+         style="stop-color:#ffd62a;stop-opacity:0.98373985;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3775">
+      <stop
+         style="stop-color:#f37e00;stop-opacity:1;"
+         offset="0"
+         id="stop3777" />
+      <stop
+         style="stop-color:#ffe800;stop-opacity:1;"
+         offset="1"
+         id="stop3779" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3767">
+      <stop
+         style="stop-color:#ff612a;stop-opacity:1;"
+         offset="0"
+         id="stop3769" />
+      <stop
+         id="stop3791"
+         offset="0.61790407"
+         style="stop-color:#ffaf2a;stop-opacity:0.99215686;" />
+      <stop
+         style="stop-color:#ffd62a;stop-opacity:0.98373985;"
+         offset="1"
+         id="stop3771" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3759">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop3761" />
+      <stop
+         id="stop3787"
+         offset="0.49999994"
+         style="stop-color:#ffac00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffde00;stop-opacity:1;"
+         offset="1"
+         id="stop3763" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3751">
+      <stop
+         style="stop-color:#ffd62a;stop-opacity:1;"
+         offset="0"
+         id="stop3753" />
+      <stop
+         style="stop-color:#ff872a;stop-opacity:1;"
+         offset="1"
+         id="stop3755" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3837">
+      <stop
+         style="stop-color:#003b00;stop-opacity:1;"
+         offset="0"
+         id="stop3843" />
+      <stop
+         id="stop3841"
+         offset="1"
+         style="stop-color:#0033a4;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2937">
+      <stop
+         style="stop-color:#0044aa;stop-opacity:1;"
+         offset="0"
+         id="stop2939" />
+      <stop
+         style="stop-color:#0044aa;stop-opacity:0;"
+         offset="1"
+         id="stop2941" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2937"
+       id="linearGradient2943"
+       x1="174.28572"
+       y1="395.21933"
+       x2="482.4252"
+       y2="526.8316"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2207522,0,0,0.77681166,-33.381583,91.923778)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3793"
+       id="linearGradient3757"
+       x1="594.48499"
+       y1="352.04025"
+       x2="649.76782"
+       y2="368.51266"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3759"
+       id="linearGradient3765"
+       x1="494.03494"
+       y1="389.31769"
+       x2="533.85645"
+       y2="408.99738"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3767"
+       id="linearGradient3773"
+       x1="423.40948"
+       y1="414.23685"
+       x2="455.25366"
+       y2="429.81009"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3801"
+       id="linearGradient3781"
+       x1="347.04211"
+       y1="450.95551"
+       x2="379.67932"
+       y2="465.96283"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="215.84862"
+     inkscape:cy="133.32842"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1676"
+     inkscape:window-height="1006"
+     inkscape:window-x="6"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-190.24467,-108.78355)">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00382853px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3804"
+       width="331.78992"
+       height="225.35211"
+       x="193.10817"
+       y="108.71198"
+       inkscape:export-xdpi="225.56"
+       inkscape:export-ydpi="225.56"
+       inkscape:export-filename="/Users/aaronw/Sites/sazboom/public/images/sazboom-logo.png" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.39734811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2917"
+       width="138.08174"
+       height="225.95619"
+       x="190.44128"
+       y="109.55309"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/Users/aaronw/Documents/sazboom/sazboom.png" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 240.37327,108.78355 56.75717,51.02265 -0.85192,-14.50839 32.17095,48.1063 -33.02128,-65.11423 -5.12971,15.64984 -19.0607,-35.62158 z"
+       id="path2945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+       id="rect3122"
+       width="196.07143"
+       height="224.99998"
+       x="329.17325"
+       y="109.80765" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Saz"
+     transform="translate(-190.24467,-108.78355)">
+    <text
+       xml:space="preserve"
+       style="font-size:38.64791107px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       x="247.11072"
+       y="223.56084"
+       id="text3806"
+       transform="scale(0.81482339,1.2272598)"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="247.11072"
+         y="223.56084"
+         style="font-size:144.92967224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Bold">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.64791107px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       x="282.3255"
+       y="223.54123"
+       id="text3810"
+       transform="scale(0.81482339,1.2272598)"><tspan
+         sodipodi:role="line"
+         id="tspan3812"
+         x="282.3255"
+         y="223.54123"
+         style="font-size:144.92967224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Bold">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:96.61978149px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       x="338.97314"
+       y="222.56519"
+       id="text3814"
+       transform="scale(0.81482339,1.2272598)"><tspan
+         sodipodi:role="line"
+         id="tspan3816"
+         x="338.97314"
+         y="222.56519"
+         style="font-size:144.92967224px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Bold">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.64791107px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       x="269.61774"
+       y="259.67307"
+       id="text3783"
+       transform="scale(0.81482339,1.2272598)"><tspan
+         sodipodi:role="line"
+         id="tspan3785"
+         x="269.61774"
+         y="259.67307"
+         style="font-size:30.91832924px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Fang Song;-inkscape-font-specification:Fang Song Bold">software</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="boom"
+     style="display:inline"
+     transform="translate(-190.24467,-108.78355)">
+    <text
+       transform="scale(0.70826703,1.4118969)"
+       id="text3788"
+       y="196.31377"
+       x="622.13196"
+       style="font-size:147.99588013px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:0.1120332;stroke:#ffffff;stroke-width:1.97327852;stroke-miterlimit:4;stroke-dasharray:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       xml:space="preserve"><tspan
+         style="font-size:104.57801819px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.1120332;stroke:#ffffff;stroke-width:1.97327852;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid"
+         y="196.31377"
+         x="622.13196"
+         id="tspan3790"
+         sodipodi:role="line">m</tspan></text>
+    <text
+       transform="scale(0.73982707,1.3516672)"
+       id="text3784"
+       y="219.29605"
+       x="540.8313"
+       style="font-size:159.17672729px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:0.12448132;stroke:#ffffff;stroke-width:2.12235618;stroke-miterlimit:4;stroke-dasharray:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       xml:space="preserve"><tspan
+         style="font-size:106.11782074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.12448132;stroke:#ffffff;stroke-width:2.12235618;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid"
+         y="219.29605"
+         x="540.8313"
+         id="tspan3786"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       transform="scale(0.73982707,1.3516672)"
+       id="text3767"
+       y="200.86469"
+       x="490.3306"
+       style="font-size:159.17672729px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:0.2240664;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       xml:space="preserve"><tspan
+         style="font-size:106.11782074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.2240664;stroke:none;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid"
+         y="200.86469"
+         x="490.3306"
+         id="tspan3769"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       transform="scale(0.71622156,1.396216)"
+       id="text2994"
+       y="205.02541"
+       x="454.1409"
+       style="font-size:164.2702179px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:0.17427386;stroke:none;font-family:EarthquakeTypewriter;-inkscape-font-specification:EarthquakeTypewriter Medium"
+       xml:space="preserve"><tspan
+         style="font-size:109.51346588px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:0.17427386;stroke:none;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid"
+         y="205.02541"
+         x="454.1409"
+         id="tspan2996"
+         sodipodi:role="line">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:150px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+       x="342.44171"
+       y="485.6666"
+       id="text3836"><tspan
+         sodipodi:role="line"
+         id="tspan3838"
+         x="342.44171"
+         y="485.6666" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:147.99588013px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.97327852;stroke-miterlimit:4;stroke-dasharray:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       x="618.20209"
+       y="190.79933"
+       id="text3852"
+       transform="scale(0.70826703,1.4118969)"><tspan
+         sodipodi:role="line"
+         id="tspan3854"
+         x="618.20209"
+         y="190.79933"
+         style="font-size:104.57801819px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:1.97327852;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:159.17672729px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.12235618;stroke-miterlimit:4;stroke-dasharray:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       x="536.53149"
+       y="213.99681"
+       id="text3848"
+       transform="scale(0.73982707,1.3516672)"><tspan
+         sodipodi:role="line"
+         id="tspan3850"
+         x="536.53149"
+         y="213.99681"
+         style="font-size:106.11782074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:2.12235618;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:159.17672729px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.12235618;stroke-miterlimit:4;stroke-dasharray:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Medium"
+       x="487.51343"
+       y="197.21309"
+       id="text3844"
+       transform="scale(0.73982707,1.3516672)"><tspan
+         sodipodi:role="line"
+         id="tspan3846"
+         x="487.51343"
+         y="197.21309"
+         style="font-size:106.11782074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:2.12235618;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:164.2702179px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.19026947;stroke-miterlimit:4;stroke-dasharray:none;font-family:EarthquakeTypewriter;-inkscape-font-specification:EarthquakeTypewriter Medium"
+       x="451.27567"
+       y="201.54208"
+       id="text3840"
+       transform="scale(0.71622156,1.396216)"><tspan
+         sodipodi:role="line"
+         id="tspan3842"
+         x="451.27567"
+         y="201.54208"
+         style="font-size:109.51346588px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:#ffffff;stroke-width:2.19026947;font-family:SF Aftershock Debris Solid;-inkscape-font-specification:SF Aftershock Debris Solid">b</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="boom haze"
+     style="display:inline"
+     transform="translate(-190.24467,-108.78355)" />
+</svg>

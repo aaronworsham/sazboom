@@ -1,0 +1,7 @@
+--- 
+:test: rspec
+:renderer: haml
+:stylesheet: sass
+:orm: mongomapper
+:script: jquery
+:mock: mocha
