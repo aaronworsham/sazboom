@@ -16,4 +16,4 @@ gem 'rspec', :require => "spec", :group => "test"
 gem 'rack-test', :require => 'rack/test', :group => 'test'
 
 # Padrino
-gem 'padrino', "0.9.9"
+gem 'padrino', "0.9.10"
