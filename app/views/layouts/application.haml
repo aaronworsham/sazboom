@@ -13,41 +13,48 @@
         .middle
           %ul
             %li                    
-              %a{:href => "#"}
+              %a#nav_with_heart{:href => "/"}
                 .navbox
                   .text home
                 %p
-                  home is always here
+                  home is where the 
+                  %br 
+                  = image_tag 'ruby_logo_small.png', :id => 'nav_heart'
+                  %span#move_is= "is"
             %li                    
-              %a{:href => "#"} 
+              %a.nav_without_heart{:href => "/clients"} 
                 .navbox
                   .text clients
                 %p
                   work we have done 
             %li                    
-              %a{:href => "#"} 
+              %a.nav_without_heart{:href => "/services"} 
                 .navbox
-                  .text ruby    
+                  .text services    
+                %p
+                  what we can help you with 
+            %li                    
+              %a.nav_without_heart{:href => "/community"} 
+                .navbox
+                  .text support    
                 %p
                   our part for ruby's community    
             %li                    
-              %a{:href => "#"} 
+              %a.nav_without_heart{:href => "/about"} 
                 .navbox
                   .text about    
                 %p
                   things we admit to                    
         .right
-          = image_tag 'we_know_ruby.png'
-      #header
-        .center
-          =# image_tag 'herobar.png' 
-      #contact
-        %span.logo
-          SAZBOOM
-        %span.phone
-          248.421.5816
-        %span.email
-          info@sazboom.com
+          .round_box
+            .img_right
+              = image_tag 'we_know_ruby.png'
+      = yield_content :header
+      = yield_content :contact
+      
       #container
         #main= yield
       #footer 
+        .sponsor
+          Proud lil' brother of
+          = link_to 'Sazbean.com', 'http://sazbean.com' 

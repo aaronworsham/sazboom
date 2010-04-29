@@ -1,37 +1,91 @@
+- content_for :header do
+  = partial 'pages/header'
+
+- content_for :contact do
+  = partial 'pages/contact'
+
 .left
   %ul#gallery.jcarousel-skin-tango
     %li
-      .left= image_tag 'sharespost.png', :alt => 'bob1', :title => 'bob1' 
-      .right 
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
-        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+      .gleft= image_tag 'sharespost.png', :alt => 'bob1', :title => 'bob1' 
+      .gright
+        %h2 SharesPost
+        %p
+          SharesPost is a Private Equity Stock Trading site.  It currently has over 
+          %span.strong 20,000 
+          members with 
+          %span.strong $125 Billion 
+          in managed capital and growing.  There are over 3000 posts to buy
+          or sell stock on over 150 listed companies.
+        
+        %p
+          Sharespost has been featured on 
+          %a{:href=>'http://sazbean.com/2009/12/22/sazbean-consulting-client-website-sharespost-featured-on-cnbc/'} CNBC 
+          as well as in articles from 
+          %span.strong The Wall Street Journal, 
+          %span.strong LA Times,
+          %span.strong Forbes, 
+          %span.strong BusinessWeek 
+          and 
+          %span.strong Bloomberg 
+          (
+          %a{:href=>'#'} click for more
+          ) 
+        %p
+          Sazboom wrote this application in partnership with Bright House, Inc. in Ruby on Rails
+        %p
+          %a{:href=>'http://www.sharespost.com'}Visit SharesPost
     %li
-      .left= image_tag 'sharespost.png', :alt => 'bob2', :title => 'bob2' 
-      .right
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
-        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+      .gleft= image_tag 'sazbean.png', :alt => 'bob2', :title => 'bob2' 
+      .gright
+        %h2 Sazbean
+        %p
+          Really cool write-up here 
+        %p
+          %a{:href=>'http://sazbean.com'}Visit Sazbean 
     %li
-      .left= image_tag 'sharespost.png', :alt => 'bob2', :title => 'bob2' 
-      .right
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
-        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum  
+      .gleft= image_tag 'sharespost.png', :alt => 'bob2', :title => 'bob2' 
+      .gright
+        %h2 RubyCensus
+        %p
+          Really cool write-up here 
+        %p
+          %a{:href=>'http://sazbean.com'}Visit RubyCensus         
+    %li
+      .gleft= image_tag 'victorytek.png', :alt => 'bob2', :title => 'bob2' 
+      .gright
+        %h2 VictoryTek
+        %p
+          Really cool write-up here 
+        %p
+          %a{:href=>'http://sazbean.com'}Visit VictoryTek  
+    %li
+      .gleft= image_tag 'finished-basements-plus.png', :alt => 'bob2', :title => 'bob2' 
+      .gright
+        %h2 Finished Basements Plus
+        %p
+          Really cool write-up here 
+        %p
+          %a{:href=>'http://sazbean.com'} Visit Finished Basements Plus 
 .right
+  %p
+    Just a little about:
   %ul.jcarousel-controls
     %li
-      %a{:href => '#', :page => 1} Page 1  
+      %a{:href => '#', :page => 1} 
+        .link_box SharesPost  
     %li
-      %a{:href => '#', :page => 2} Page 2  
+      %a{:href => '#', :page => 2}  
+        .link_box Sazbean
     %li
-      %a{:href => '#', :page => 3} Page 3     
+      %a{:href => '#', :page => 3} 
+        .link_box RubyCensus
+    %li
+      %a{:href => '#', :page => 4} 
+        .link_box VictoryTek
+    %li
+      %a{:href => '#', :page => 5} 
+        .link_box Finished Basements Plus
    
 
 

@@ -1,5 +1,5 @@
 body 
-  background: black
+  background: #340505 url(/images/background.png) repeat-x
 
 #wrapper
   margin-left: auto
@@ -44,7 +44,11 @@ body
       width: 90px 
       display: block 
       margin-left: 5px
-      margin-right: 5px   
+      margin-right: 5px  
+    ul li #move_is   
+      padding-left: 30px
+    ul li p img
+      border: 0 none
     ul li a .navbox
       float: left
       border-left: black 1px solid 
@@ -59,26 +63,49 @@ body
       top: 20px
       
   .right
-    float: right
+    float: right 
+    .round_box
+      width: 280px
+      height: 73px
+      background: black 
+      -moz-border-radius-topleft: 20px
+      -webkit-border-top-left-radius: 20px
+      .img_right
+        float: right
   
 #header 
   width: 100%
-  background: #b40001 
-  height: 228px  
+  background: #eae3d1 
+  height: 228px   
+  border-left: #cbc3b0 3px solid
+  border-top: #cbc3b0 3px solid
   -moz-border-radius-topleft: 20px
   -webkit-border-top-left-radius: 20px
   .left
-    float: left
-  .center
-    text-align: center
-    img
-      padding-right: 70px
-      padding-top: 5px  
+    height: 200px 
+    margin: 10px 
+    float: left  
+    padding-top: 15px 
+    a 
+      padding-left: 55px   
+    a img
+      border: 0 none
+  .right  
+    margin: 3px 
+    height: 218px  
+    float: right          
+    a 
+      padding-left: 15px
+    a img
+      border: 0 none
+
                        
 #contact
   height: 35px 
   margin-top: 5px
-  padding-top: 5px
+  padding-top: 5px 
+  border-left: black 3px solid
+  border-top: black 3px solid
   background: #dd2400
   width: 100% 
   color: white          
@@ -90,28 +117,75 @@ body
     padding-left: 30px
     
 #container
-  width: 100%
-  height: 700px   
+  width: 100%  
 
 #main   
   margin-top: 15px
-  padding-top: 30px
-  height: 350px
+  padding-top: 30px 
+  padding-bottom: 60px
+  height: 400px
   background: #7a0101  
+  border-left: #d33e08 2px solid
+  border-top: #d33e08 2px solid
   -moz-border-radius-topleft: 20px
   -webkit-border-top-left-radius: 20px
   .left
     padding-left: 20px
     float: left
-  .right 
-    float: right
-    padding-right: 30px
+  .right      
+    padding: 5px
+    float: left 
+    p
+      text-align: center
+      color: white
+     
+.jcarousel-controls
+  padding-left: 5px
+  list-style-type: none 
+  li
+    background: #7a0101
+    border-top: #d33e08 1px solid 
+    border-bottom: #d33e08 1px solid 
+    a
+      text-decoration: none
+      color: white
+      font-size: 22px
+      padding-top: 10px
+      .link_box
+        width: 100% 
+  li:hover
+    background: #a00303
       
 #gallery 
-  li .right
-    width: 200px
+  li .gright
+    width: 250px
     float: right
     color: white
-  li .left    
+    h2
+      margin: 5px 
+      color: #aad4ff
+    a
+      color: #7fff00 
+    .strong
+      color: #d4ffaa
+  li .gleft    
     width: 400px
-    float: left 
+    float: left
+    
+#footer    
+  margin-top: 5px
+  text-align: center
+  width: 100%
+  height: 30px
+  background: #754f4f 
+  font-size: 12px
+  .sponsor 
+    padding-top: 5px
+    color: white   
+    a     
+      padding: 5px
+      text-decoration: none
+      color: pink
+    
+  
+    

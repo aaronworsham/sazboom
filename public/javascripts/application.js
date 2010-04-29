@@ -14,6 +14,18 @@ $(document).ready(function() {
     }
   );
   
+  $("#nav_heart").hide();
+  $("#nav_with_heart").hover(
+    function(){
+      $('#nav_heart').show(400);
+    }
+  );       
+  $(".nav_without_heart").hover(
+    function(){
+      $('#nav_heart').hide();
+    }
+  );
+  
   $('.navbox').each(
     function(i, v){ 
       var hue = 'rgb('+(180-(i*40))+','+(0+(i*5))+','+(0+(i*15))+')';
