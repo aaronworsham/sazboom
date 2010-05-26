@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="360.62"
-   height="193.7"
+   width="990"
+   height="80"
    id="svg2"
    version="1.1"
    inkscape:version="0.47+devel r9343"
    sodipodi:docname="hero-bar-right.svg"
-   inkscape:export-filename="/Users/aaronw/Sites/sazboom/public/images/hero-bar-left.png"
+   inkscape:export-filename="/Users/aaronw/Sites/sazboom/public/images/header2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -195,13 +195,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#eae3d1"
+     pagecolor="#e8dab7"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="201.49609"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="498.3375"
      inkscape:cy="59.770041"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -231,7 +231,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-185.31863,-370.14792)">
+     transform="translate(-185.31863,-483.84792)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3179"
@@ -245,7 +245,7 @@
            y="1.5" /></flowRegion><flowPara
          id="flowPara3185" /></flowRoot>    <g
        id="g4748"
-       transform="translate(440.03487,461.41745)">
+       transform="matrix(0.74127114,0,0,0.74127114,843.0462,487.5505)">
       <g
          style="display:inline"
          transform="translate(-247.6176,-537.53315)"
@@ -381,12 +381,12 @@
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-       x="183.82483"
-       y="428.29688"
+       x="409.87003"
+       y="540.62634"
        id="text4781"><tspan
          sodipodi:role="line"
-         x="183.82483"
-         y="428.29688"
+         x="409.87003"
+         y="540.62634"
          style="font-size:72px"
          id="tspan4785">Business</tspan></text>
     <flowRoot
@@ -403,34 +403,34 @@
          id="flowPara4793" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-       x="270.59869"
-       y="460.35751"
+       x="665.10394"
+       y="524.29004"
        id="text4797"><tspan
          sodipodi:role="line"
          id="tspan4799"
-         x="270.59869"
-         y="460.35751">of</tspan></text>
+         x="665.10394"
+         y="524.29004">of</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-       x="300.09869"
-       y="486.85751"
+       x="702.45319"
+       y="538.76923"
        id="text4801"><tspan
          sodipodi:role="line"
          id="tspan4803"
-         x="300.09869"
-         y="486.85751"
+         x="702.45319"
+         y="538.76923"
          style="font-size:64px;fill:#800000">Ruby</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CY;-inkscape-font-specification:Helvetica CY"
-       x="196.63234"
-       y="532.73517"
+       x="522.8429"
+       y="559.18414"
        id="text3591"><tspan
          sodipodi:role="line"
          id="tspan3593"
-         x="196.63234"
-         y="532.73517"
+         x="522.8429"
+         y="559.18414"
          style="font-size:14px">Tools and advice for the Ruby Entrepreneur </tspan></text>
   </g>
 </svg>

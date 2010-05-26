@@ -9,9 +9,7 @@ body
 #nav
   width: 100%
   height: 85px
-  .left  
-    float: left
-  .middle      
+  .left
     float: left
     ul
       list-style: none 
@@ -60,7 +58,10 @@ body
       text-align: center
     ul li a .navbox .text
       position: relative
-      top: 20px
+      top: 20px  
+    
+  .middle      
+    float: right
       
   .right
     float: right 
@@ -76,45 +77,51 @@ body
 #header 
   width: 100%
   background: #eae3d1 
-  height: 228px   
+  height: 80px   
   border-left: #cbc3b0 3px solid
   border-top: #cbc3b0 3px solid
   -moz-border-radius-topleft: 20px
-  -webkit-border-top-left-radius: 20px
-  .left
-    height: 200px 
-    margin: 10px 
-    float: left  
-    padding-top: 15px 
-    a 
-      padding-left: 55px   
-    a img
-      border: 0 none
-  .right  
-    margin: 3px 
-    height: 218px  
-    float: right          
-    a 
-      padding-left: 15px
-    a img
-      border: 0 none
+  -webkit-border-top-left-radius: 20px 
+  img
+    padding-left: 10px
+
+#header2 
+  width: 100%
+  background: #e8dab7
+  height: 80px   
+  border-left: #cbc3b0 3px solid
+  border-top: #cbc3b0 3px solid
 
                        
-#contact
-  height: 35px 
+#contact  
+  border-left: #d33e08 2px solid
+  border-top: #d33e08 2px solid
+  -moz-border-radius-topleft: 20px
+  -webkit-border-top-left-radius: 20px  
+  height: 40px 
   margin-top: 5px
-  padding-top: 5px 
-  border-left: black 3px solid
-  border-top: black 3px solid
-  background: #dd2400
+  padding-top: 10px
   width: 100% 
-  color: white          
-  .logo  
-    padding-left: 30px
-  .phone
-    padding-left: 30px
-  .email
-    padding-left: 30px
+  color: white
+  font-size: 40px
+  .contact-icon
+    float: left
+    background: url('/images/contact-sprites.png')    
+    height: 52px      
+    margin-left: 15px
+  .contact-text
+    float: left
+    padding-left: 15px 
+    padding-top: 10px    
+  #phone-icon 
+    width: 46px
+    background-position: -20px -107px 
+  #email-icon
+    width: 47px
+    background-position: -162px -187px  
+  #twitter-icon
+    width: 56px
+    background-position: -87px -110px     
     
 #container
   width: 100%  
@@ -123,7 +130,7 @@ body
   margin-top: 15px
   padding-top: 30px 
   padding-bottom: 60px
-  height: 400px
+  height: 550px
   background: #7a0101  
   border-left: #d33e08 2px solid
   border-top: #d33e08 2px solid
@@ -138,6 +145,45 @@ body
     p
       text-align: center
       color: white
+    .pipeline
+      color: white
+      list-style-type: none
+      font-size: 10px
+  .pages
+    -moz-border-radius-topleft: 20px
+    -webkit-border-top-left-radius: 20px
+    border-left: #d33e08 3px solid
+    border-top: #d33e08 3px solid               
+    margin-left: 30px
+    margin-right: 30px
+    padding-bottom: 5px
+    background: black
+    color: white
+    .pullquote  
+      color: #ffffaa
+      font-size: 30px
+      padding-left: 30px
+      padding-right: 30px
+      padding-top: 30px 
+      height: 200px
+      text-align: center
+    p 
+      line-height: 200%
+      padding-left: 15px 
+      padding-right: 15px
+      font-size: 22px
+      .lead-in
+        font-size: 36px
+        color: #7f00ff 
+    .center
+      text-align: center
+    a, a:visited, a:hover
+      font-size: 36px
+      color: #00bfbf
+      text-decoration: none  
+      padding-left: 10px
+      padding-right: 10px  
+  
      
 .jcarousel-controls
   padding-left: 5px
@@ -157,6 +203,8 @@ body
     background: #a00303
       
 #gallery 
+  a
+    color: #7fff00 
   li .gright
     width: 250px
     float: right
@@ -164,8 +212,6 @@ body
     h2
       margin: 5px 
       color: #aad4ff
-    a
-      color: #7fff00 
     .strong
       color: #d4ffaa
   li .gleft    

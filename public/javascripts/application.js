@@ -6,7 +6,7 @@ $(document).ready(function() {
   maxWidth = 210;
   minWidth = 75;  
 
-  $("#nav .middle ul li a").hover(
+  $("#nav .left ul li a").hover(
     function(){ 
       $(lastBlock).animate({width: minWidth+"px"}, { queue:false, duration:400 });
       $(this).animate({width: maxWidth+"px"}, { queue:false, duration:400});

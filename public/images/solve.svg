@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="580.80859"
+   height="182.98099"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47+devel r9343"
+   sodipodi:docname="solve.svg"
+   inkscape:export-filename="/Users/aaronw/Sites/sazboom/public/images/solve.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="387.3923"
+     inkscape:cy="-212.68922"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1444"
+     inkscape:window-height="907"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.036273,-22.406269)">
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:Rockwell Extra Bold"
+       x="40"
+       y="60.933613"
+       id="text2915"><tspan
+         sodipodi:role="line"
+         id="tspan2917"
+         x="40"
+         y="60.933613"
+         style="fill:#00ffff">Let's Solve </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:Rockwell Extra Bold"
+       x="67.14286"
+       y="96.36219"
+       id="text2919"><tspan
+         sodipodi:role="line"
+         id="tspan2921"
+         x="67.14286"
+         y="96.36219"
+         style="fill:#2a7fff">The World's</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:Rockwell Extra Bold"
+       x="12.571427"
+       y="125.21935"
+       id="text2923"><tspan
+         sodipodi:role="line"
+         id="tspan2925"
+         x="12.571427"
+         y="125.21935"
+         style="fill:#008000">Problems with</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:Rockwell Extra Bold"
+       x="133.14285"
+       y="162.6479"
+       id="text2927"><tspan
+         sodipodi:role="line"
+         id="tspan2929"
+         x="133.14285"
+         y="162.6479"
+         style="fill:#ff0000">Exciting </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell Extra Bold;-inkscape-font-specification:Rockwell Extra Bold"
+       x="8.5714293"
+       y="193.21928"
+       id="text2931"><tspan
+         sodipodi:role="line"
+         id="tspan2933"
+         x="8.5714293"
+         y="193.21928"
+         style="fill:#ffff00">Web Applications</tspan></text>
+  </g>
+</svg>

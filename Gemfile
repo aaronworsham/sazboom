@@ -6,7 +6,7 @@ gem 'rack-flash'
 gem 'thin' # or mongrel
 
 # Component requirements
-gem 'haml'
+gem 'haml', ">3.0.0.rc.2"
 gem 'mongo_mapper'
 gem 'mongo_ext', :require => "mongo"
 

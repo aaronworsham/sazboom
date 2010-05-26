@@ -11,8 +11,8 @@ Sazboom.controllers :Pages do
     render 'pages/services'
   end
   
-  get :ruby, :map => '/community' do
-    render 'pages/community'
+  get :price, :map => '/price' do
+    render 'pages/price'
   end
   
   get :about, :map => '/about' do

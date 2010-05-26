@@ -5,46 +5,14 @@
     = stylesheet_link_tag 'application', 'tango/skin'
     = javascript_include_tag 'jquery-1.4.2.min', 'jquery.jcarousel','application','jquery.color'  
     = yield_content :include  
-    = favicon_tag 'favicon.png' 
+    = favicon_tag 'favicon.gif' 
   %body
     #wrapper 
       #nav  
         .left
-        .middle
-          %ul
-            %li                    
-              %a#nav_with_heart{:href => "/"}
-                .navbox
-                  .text home
-                %p
-                  home is where the 
-                  %br 
-                  = image_tag 'ruby_logo_small.png', :id => 'nav_heart'
-                  %span#move_is= "is"
-            %li                    
-              %a.nav_without_heart{:href => "/clients"} 
-                .navbox
-                  .text clients
-                %p
-                  work we have done 
-            %li                    
-              %a.nav_without_heart{:href => "/services"} 
-                .navbox
-                  .text services    
-                %p
-                  what we can help you with 
-            %li                    
-              %a.nav_without_heart{:href => "/community"} 
-                .navbox
-                  .text support    
-                %p
-                  our part for ruby's community    
-            %li                    
-              %a.nav_without_heart{:href => "/about"} 
-                .navbox
-                  .text about    
-                %p
-                  things we admit to                    
+          = partial 'layouts/nav'
+        .middle          
+          = image_tag('sazboom-logo-small.png')
         .right
           .round_box
             .img_right
